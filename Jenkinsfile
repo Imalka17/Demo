@@ -1,7 +1,7 @@
 pipeline { 
 // 
     environment { 
-        registry = "Imalka12" 
+        registry = "imalka12" 
         registryUrl ="imalka12.azurecr.io"
         registryCredential = "ACR"
         dockerImage = '' 
